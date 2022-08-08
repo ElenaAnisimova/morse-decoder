@@ -1,0 +1,1 @@
+textDecoded.map(e => replaceSpace(textDecoded))
